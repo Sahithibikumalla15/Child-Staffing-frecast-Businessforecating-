@@ -25,9 +25,7 @@ This project leverages statistical and machine learning methods to forecast staf
 
 ## Notebooks & Scripts
 
-- typical_week_forecast.py: XGBoost model to learn average staffing trends.
-- next_week_forecast.py: XGBoost tuned forecast for the next calendar week.
-- model_comparison.py: GridSearchCV tuning and evaluation of XGBoost, Random Forest, and ARIMA.
+- Businessforecasting project.ipynb (this file includes data cleaning,typical weekforecast, Next week forecast , model evaluation)
 
 ## Visualizations
 
