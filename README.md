@@ -3,9 +3,11 @@
 This project leverages statistical and machine learning methods to forecast staffing needs at the Child Saving Institute (CSI), a nonprofit childcare organization. Accurate forecasting ensures compliance with child-to-staff ratios while reducing unnecessary labor costs.
 
 # TEAM MEMBERS
--Sahithi Bikumalla
--Vikas Kumar Reddy Buchammagari
--Mahmuda Akhter Nishu
+- Sahithi Bikumalla
+
+- Vikas Kumar Reddy Buchammagari
+
+- Mahmuda Akhter Nishu
 
 ## Objectives
 
